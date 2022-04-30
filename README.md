@@ -11,3 +11,8 @@ Low-cost, portable adapter for the conversion of standard light microscopes to f
   - Lab Advisor and Ph.D Research Associate
 - [Dr. Sylvia L. Natividad-Diaz](https://hb2504.utep.edu/Home/Profile?username=slnatividad)
   - Biomedical Engineering Professor and Lababtory Researcher. 
+
+
+
+## **Schematic**
+<img src="">
